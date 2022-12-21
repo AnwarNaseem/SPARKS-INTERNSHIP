@@ -1,4 +1,4 @@
-# SPARKS-INTERSHIP
+# SPARKS-INTERNSHIP
 
 Data Science and Business Analytics Internship
 
