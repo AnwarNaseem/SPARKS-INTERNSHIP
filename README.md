@@ -34,7 +34,7 @@ https://www.kaggle.com/datasets/START-UMD/gtd
 
 TASK 5: 
 
-Exploratory Data Analysis’ on dataset ‘Indian Premier League’ 
+Exploratory Data Analysis’ on dataset ‘Indian Premier League 2008-2019’ 
 
 Tasks to do:
 
