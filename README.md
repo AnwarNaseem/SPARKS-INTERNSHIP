@@ -36,10 +36,9 @@ TASK 5:
 
 Exploratory Data Analysis’ on dataset ‘Indian Premier League’ 
 
-In the context of the Indian Premier League, EDA could be used to analyze various aspects of the league, 
+Tasks to do:
 
-such as the performance of teams and players, 
+a) Find most successful teams, players, factors contributing win or loss of a team
 
-the impact of various factors on the outcome of matches, and the overall popularity and success of the league.
+b) Suggest teams or players a company should endorse for its products
 
-This could help stakeholders in the league to better understand the data and make more informed decisions.
