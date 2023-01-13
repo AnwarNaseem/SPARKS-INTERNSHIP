@@ -14,6 +14,10 @@ As a business manager, try to find out the weak areas where you can work to make
 
 What all business problems you can derive by exploring the data
 
+Youtube Link:
+
+https://www.youtube.com/watch?v=rSzrAW-sgfc&t=67s
+
 TASK 4: 
 
 Exploratory Data Analysis on dataset ‘Global Terrorism’ 
@@ -28,6 +32,10 @@ In this dataset, we will be exploring the terror attacks over the world from 197
 
 the most notorious groups, their motives,etc.
 
+Youtube Link:
+
+https://www.youtube.com/watch?v=8oBHBTBKV-s
+
 Dataset link:
 
 https://www.kaggle.com/datasets/START-UMD/gtd
@@ -41,4 +49,8 @@ Tasks to do:
 a) Find most successful teams, players, factors contributing win or loss of a team
 
 b) Suggest teams or players a company should endorse for its products
+
+Youtube Link:
+
+https://www.youtube.com/watch?v=qOt9TP_e0Ks
 
